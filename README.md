@@ -1,6 +1,5 @@
 # Task-manager-app
 # Steps to setup and run this app
-# Steps to setup and run this app
 1. Clone this repository
     -->Command: git clone
 2. Install dependencies
